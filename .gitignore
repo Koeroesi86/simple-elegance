@@ -1,0 +1,7 @@
+.idea
+.gradle
+watchface/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+*.iml

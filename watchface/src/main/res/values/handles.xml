@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="hours_handle">#99ffffff</color>
+    <color name="minutes_handle">#ffffff</color>
+    <color name="seconds_handle">#9816a7</color>
+    <color name="time_unit_handle">#ffffff</color>
+    <color name="time_unit_text">#ffffff</color>
+    <color name="battery_charging">#1687a7</color>
+    <color name="battery_charged">#16a724</color>
+    <color name="battery_halfcharged">#bab818</color>
+    <color name="battery_discharged">#ba3b18</color>
+
+    <item name="handle_width" format="float" type="dimen">4</item>
+    <item name="time_unit_handle_width" format="float" type="dimen">4</item>
+    <integer name="time_unit_handle_height">10</integer>
+</resources>
